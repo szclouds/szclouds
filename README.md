@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔍 Node.js Developer
 - ☕️ Java Developer
-- 🌐 My blog : https://szclouds.github.io
+- 🌐 Blog : https://szclouds.github.io
