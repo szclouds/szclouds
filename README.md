@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔍 Node.js Developer
 - ☕️ Java Developer
+- 🔍 Node.js Developer
 - 🌐 Blog : https://szclouds.github.io
