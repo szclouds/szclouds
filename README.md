@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 - ☕️ Java Developer
 - 🔍 Node.js Developer
-- 🌐 Blog : https://szclouds.github.io
